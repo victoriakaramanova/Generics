@@ -1,0 +1,11 @@
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.deps.json
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.dll
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\bin\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.pdb
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.csprojAssemblyReference.cache
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.dll
+C:\Users\Viki\source\repos\Generics\P03GenericSwapMethodStrings\obj\Debug\netcoreapp2.1\P03GenericSwapMethodStrings.pdb

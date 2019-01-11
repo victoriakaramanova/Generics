@@ -1,0 +1,10 @@
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05GenericCountMethodStrings.deps.json
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05GenericCountMethodStrings.runtimeconfig.json
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05GenericCountMethodStrings.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05GenericCountMethodStrings.dll
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\bin\Debug\netcoreapp2.1\P05GenericCountMethodStrings.pdb
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05GenericCountMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05GenericCountMethodStrings.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05GenericCountMethodStrings.AssemblyInfo.cs
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05GenericCountMethodStrings.dll
+C:\Users\Viki\source\repos\Generics\P05GenericCountMethodStrings\obj\Debug\netcoreapp2.1\P05GenericCountMethodStrings.pdb
