@@ -1,0 +1,11 @@
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\bin\Debug\netcoreapp2.1\P09CustomListIterator.deps.json
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\bin\Debug\netcoreapp2.1\P09CustomListIterator.runtimeconfig.json
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\bin\Debug\netcoreapp2.1\P09CustomListIterator.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\bin\Debug\netcoreapp2.1\P09CustomListIterator.dll
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\bin\Debug\netcoreapp2.1\P09CustomListIterator.pdb
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\obj\Debug\netcoreapp2.1\P09CustomListIterator.csprojAssemblyReference.cache
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\obj\Debug\netcoreapp2.1\P09CustomListIterator.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\obj\Debug\netcoreapp2.1\P09CustomListIterator.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\obj\Debug\netcoreapp2.1\P09CustomListIterator.AssemblyInfo.cs
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\obj\Debug\netcoreapp2.1\P09CustomListIterator.dll
+C:\Users\Viki\source\repos\Generics\P09CustomListIterator\obj\Debug\netcoreapp2.1\P09CustomListIterator.pdb

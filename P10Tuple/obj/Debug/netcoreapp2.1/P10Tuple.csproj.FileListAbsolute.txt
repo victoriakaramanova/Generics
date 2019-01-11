@@ -1,0 +1,11 @@
+C:\Users\Viki\source\repos\Generics\P10Tuple\bin\Debug\netcoreapp2.1\P10Tuple.deps.json
+C:\Users\Viki\source\repos\Generics\P10Tuple\bin\Debug\netcoreapp2.1\P10Tuple.runtimeconfig.json
+C:\Users\Viki\source\repos\Generics\P10Tuple\bin\Debug\netcoreapp2.1\P10Tuple.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\Generics\P10Tuple\bin\Debug\netcoreapp2.1\P10Tuple.dll
+C:\Users\Viki\source\repos\Generics\P10Tuple\bin\Debug\netcoreapp2.1\P10Tuple.pdb
+C:\Users\Viki\source\repos\Generics\P10Tuple\obj\Debug\netcoreapp2.1\P10Tuple.csprojAssemblyReference.cache
+C:\Users\Viki\source\repos\Generics\P10Tuple\obj\Debug\netcoreapp2.1\P10Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\Generics\P10Tuple\obj\Debug\netcoreapp2.1\P10Tuple.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\Generics\P10Tuple\obj\Debug\netcoreapp2.1\P10Tuple.AssemblyInfo.cs
+C:\Users\Viki\source\repos\Generics\P10Tuple\obj\Debug\netcoreapp2.1\P10Tuple.dll
+C:\Users\Viki\source\repos\Generics\P10Tuple\obj\Debug\netcoreapp2.1\P10Tuple.pdb

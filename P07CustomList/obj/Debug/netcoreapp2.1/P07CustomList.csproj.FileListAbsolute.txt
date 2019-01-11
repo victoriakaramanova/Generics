@@ -1,0 +1,11 @@
+C:\Users\Viki\source\repos\Generics\P07CustomList\bin\Debug\netcoreapp2.1\P07CustomList.deps.json
+C:\Users\Viki\source\repos\Generics\P07CustomList\bin\Debug\netcoreapp2.1\P07CustomList.runtimeconfig.json
+C:\Users\Viki\source\repos\Generics\P07CustomList\bin\Debug\netcoreapp2.1\P07CustomList.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\Generics\P07CustomList\bin\Debug\netcoreapp2.1\P07CustomList.dll
+C:\Users\Viki\source\repos\Generics\P07CustomList\bin\Debug\netcoreapp2.1\P07CustomList.pdb
+C:\Users\Viki\source\repos\Generics\P07CustomList\obj\Debug\netcoreapp2.1\P07CustomList.csprojAssemblyReference.cache
+C:\Users\Viki\source\repos\Generics\P07CustomList\obj\Debug\netcoreapp2.1\P07CustomList.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\Generics\P07CustomList\obj\Debug\netcoreapp2.1\P07CustomList.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\Generics\P07CustomList\obj\Debug\netcoreapp2.1\P07CustomList.AssemblyInfo.cs
+C:\Users\Viki\source\repos\Generics\P07CustomList\obj\Debug\netcoreapp2.1\P07CustomList.dll
+C:\Users\Viki\source\repos\Generics\P07CustomList\obj\Debug\netcoreapp2.1\P07CustomList.pdb

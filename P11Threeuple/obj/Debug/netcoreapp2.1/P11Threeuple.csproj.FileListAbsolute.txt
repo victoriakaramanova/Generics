@@ -1,0 +1,10 @@
+C:\Users\Viki\source\repos\Generics\P11Threeuple\bin\Debug\netcoreapp2.1\P11Threeuple.deps.json
+C:\Users\Viki\source\repos\Generics\P11Threeuple\bin\Debug\netcoreapp2.1\P11Threeuple.runtimeconfig.json
+C:\Users\Viki\source\repos\Generics\P11Threeuple\bin\Debug\netcoreapp2.1\P11Threeuple.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\Generics\P11Threeuple\bin\Debug\netcoreapp2.1\P11Threeuple.dll
+C:\Users\Viki\source\repos\Generics\P11Threeuple\bin\Debug\netcoreapp2.1\P11Threeuple.pdb
+C:\Users\Viki\source\repos\Generics\P11Threeuple\obj\Debug\netcoreapp2.1\P11Threeuple.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\Generics\P11Threeuple\obj\Debug\netcoreapp2.1\P11Threeuple.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\Generics\P11Threeuple\obj\Debug\netcoreapp2.1\P11Threeuple.AssemblyInfo.cs
+C:\Users\Viki\source\repos\Generics\P11Threeuple\obj\Debug\netcoreapp2.1\P11Threeuple.dll
+C:\Users\Viki\source\repos\Generics\P11Threeuple\obj\Debug\netcoreapp2.1\P11Threeuple.pdb

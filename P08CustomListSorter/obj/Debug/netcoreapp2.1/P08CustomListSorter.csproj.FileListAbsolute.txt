@@ -1,0 +1,11 @@
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\bin\Debug\netcoreapp2.1\P08CustomListSorter.deps.json
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\bin\Debug\netcoreapp2.1\P08CustomListSorter.runtimeconfig.json
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\bin\Debug\netcoreapp2.1\P08CustomListSorter.runtimeconfig.dev.json
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\bin\Debug\netcoreapp2.1\P08CustomListSorter.dll
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\bin\Debug\netcoreapp2.1\P08CustomListSorter.pdb
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\obj\Debug\netcoreapp2.1\P08CustomListSorter.csprojAssemblyReference.cache
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\obj\Debug\netcoreapp2.1\P08CustomListSorter.csproj.CoreCompileInputs.cache
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\obj\Debug\netcoreapp2.1\P08CustomListSorter.AssemblyInfoInputs.cache
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\obj\Debug\netcoreapp2.1\P08CustomListSorter.AssemblyInfo.cs
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\obj\Debug\netcoreapp2.1\P08CustomListSorter.dll
+C:\Users\Viki\source\repos\Generics\P08CustomListSorter\obj\Debug\netcoreapp2.1\P08CustomListSorter.pdb
